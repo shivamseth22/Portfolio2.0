@@ -6,7 +6,7 @@ const Body = () => {
     <>
       
       <div className="flex justify-center gap-24 items-center mt-40 ">
-        <img src={pic} alt="image" className="w-72 rounded-full" />
+        <img src={pic} alt="image hai ye" className="w-72 rounded-full" />
         <div className="flex flex-col gap-3">
             <p className="text-xl font-bold">Hello I'm</p>
             <h1 className="text-5xl uppercase font-bold">Shivam Seth</h1>
